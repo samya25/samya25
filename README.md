@@ -125,3 +125,64 @@ A banking application developed to manage customers, accounts and financial tran
 A web application designed to provide users with an interactive tourism experience.
 
 **Focus:** Web Development • User Interface • Database Integration
+---
+
+## 🌱 Currently Learning
+
+* 💻 Full-Stack Web Development
+* 🔌 REST API Development
+* 📱 React Native & Mobile Development
+* 🗄️ Database Design & Management
+* 🧪 Software Testing
+* 🎨 UI/UX Design
+* 🐙 Git & GitHub
+---
+
+## 🎯 My Development Goals
+
+* 🚀 Gain practical experience through an IT internship
+* 💻 Build and improve real-world software projects
+* 🧠 Strengthen my software development skills
+* 🐙 Build a stronger GitHub portfolio
+* 🤝 Learn through collaboration and teamwork
+* 🌱 Keep learning new technologies
+---
+
+## 📊 GitHub Activity
+
+![Samya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samya25\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samya25\&layout=compact\&hide_border=true)
+---
+
+#
+
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with other developers, students, and people working in technology.
+
+
+
+💼 **LinkedIn:** https://www.linkedin.com/in/samya-singla-ab1b372b9
+
+📧 **Email:** Available on request
+
+---
+
+### ✨ Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and projects.
+
+*Always learning. Always building. Always improving.* 🚀
+
+
+📧 **Email:** Available on request
+
+---
+
+### ✨ Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and projects.
+
+*Always learning. Always building. Always improving.* 🚀
