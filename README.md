@@ -45,3 +45,83 @@ I'm currently developing my software development skills through university proje
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🅿️ SmartPark — Smart Parking Application
+
+A smart parking application designed to help users find and manage parking more easily.
+
+**Features**
+
+* 📍 Location-based parking
+* 🅿️ Parking availability
+* 📅 Parking reservations
+* 💳 Online payment
+* 🔔 Notifications
+* 🧾 Parking history and receipts
+
+**Focus:** Mobile Development • UI/UX • User-Centred Design
+
+---
+
+### 🧸 Toy Palace — Second-Hand Toy Marketplace
+
+A mobile application that allows parents to **buy and sell second-hand toys** at affordable prices.
+
+**Features**
+
+* 🔐 User authentication
+* 🔎 Toy search and browsing
+* 🧸 Toy listings
+* 📸 Add toy listings
+* 🛒 Shopping cart
+* ❤️ Wishlist
+* 📦 Orders
+* 🔥 Firebase integration
+
+**Technologies:** React Native • Expo • Firebase
+
+---
+
+### 🌐 CampusConnect — CMS & REST API
+
+A CMS-based web application designed for managing and publishing content through a web interface and RESTful API.
+
+**Features**
+
+* 🔐 User authentication
+* 📝 Content management
+* ✏️ CRUD operations
+* 🔌 REST API
+* 🛡️ Form validation and security
+* 🗄️ Database integration
+
+**Technologies:** Laravel • PHP • MySQL • JavaScript
+
+---
+
+### 🏦 Bank Account Management System
+
+A banking application developed to manage customers, accounts and financial transactions.
+
+**Key Concepts**
+
+* 👥 Customer management
+* 💳 Account management
+* 💸 Transactions
+* 🔄 Transfers
+* 📄 JSON data storage
+* ⚠️ Custom exception handling
+* 🧪 Software testing
+
+**Focus:** Object-Oriented Programming • Application Design • Testing
+
+---
+
+### 🌍 Tourism Web Application
+
+A web application designed to provide users with an interactive tourism experience.
+
+**Focus:** Web Development • User Interface • Database Integration
